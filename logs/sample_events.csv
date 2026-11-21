@@ -1,0 +1,8 @@
+timestamp,event_type,source_ip,username
+2026-11-21 10:00:00,login_success,192.168.1.10,admin
+2026-11-21 10:01:00,login_failed,192.168.1.50,user1
+2026-11-21 10:01:10,login_failed,192.168.1.50,user1
+2026-11-21 10:01:20,login_failed,192.168.1.50,user1
+2026-11-21 10:02:00,login_success,192.168.1.20,operator
+2026-11-21 10:03:00,port_scan,192.168.1.99,unknown
+2026-11-21 10:04:00,login_success,192.168.1.30,admin
